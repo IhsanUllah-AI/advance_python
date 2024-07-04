@@ -1,0 +1,9 @@
+i love c++
+i love java
+#open() is used to open new file either for writing or reading 
+#take 2 parameter 
+first) file fath  
+ 2nd) mode eg w for writing and r for reading
+i love java
+i love java
+i love java
